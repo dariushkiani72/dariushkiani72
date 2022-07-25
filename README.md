@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+ I'm dariush!
+
+electronic engineer from chamran university I am an experienced developer skilled in python, Java, Full Stack Development, Machine learning, image proceseing
+
+💬 You can get in touch with me by email at dariushkiani72@gmail.com
+
+Languages and Tools:
+
+Programming Languages
 <!--
 **dariushkiani72/dariushkiani72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
